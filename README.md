@@ -34,8 +34,6 @@ Other AI/ML Tools I actively use (icons not available on skillicons.dev yet):
 <!--
      Oh, hello there, recruiters!
 -->
-
-### Employer?
 > [!IMPORTANT]  
 > <a href="[https://drive.google.com/drive/folders/1hJGhQTtzDUzMqRtoIQUx7QTLtCN726ZK?usp=sharin](https://www.anuboyapati.com/expertise)g" download>Download my resume</a>
 
