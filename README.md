@@ -6,7 +6,6 @@
 <!--
      This is the list of my skills and tools I am studying!
 -->
-### Main Skills – Machine Learning & AI
 
 [![My Skills](https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,raspberrypi,fastapi,flask,postgres,mongodb,docker,kubernetes,aws,git,github,javascript,react)](https://skillicons.dev)
 
