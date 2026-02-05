@@ -18,7 +18,17 @@ Other AI/ML Tools I actively use (icons not available on skillicons.dev yet):
 
 <div align="center">
   <img src="./profile/stats.svg" height="165" />
+</div>
+
+<br/>
+
+<div align="center">
   <img src="./profile/top-langs.svg" height="165" />
+</div>
+
+<br/>
+
+<div align="center">
   <img src="https://streak-stats.demolab.com?user=ly-sona&theme=rose_pine&ring=D9BED1&fire=D9BED1&currStreakLabel=D9BED1&background=00000000" height="165" />
 </div>
 
