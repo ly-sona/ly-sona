@@ -18,6 +18,8 @@ Other AI/ML Tools I actively use (icons not available on skillicons.dev yet):
 > [!IMPORTANT]  
 > <a href="https://www.anuboyapati.com/expertise" download>Download my resume</a>
 
+<p align="left"><a href="https://www.linkedin.com/in/anushrutha-boyapati/" style="text-decoration:none;"><img src="https://github.com/user-attachments/assets/880aaea6-79b9-4058-b9b4-342391ca04ea" alt="LinkedIn" width="44" height="44" style="display:inline-block;"/></a><a href="https://www.anuboyapati.com/" style="text-decoration:none;"><img src="https://github.com/user-attachments/assets/172bc424-569a-4522-a787-97f4cd5a685d" alt="Portfolio" width="48" height="48" style="display:inline-block; transform: translateY("2px");"/></a></p>
+
 <div align="center">
   <img src="./profile/stats.svg" height="165" />
   <img src="./profile/top-langs.svg" height="165" />
@@ -27,30 +29,6 @@ Other AI/ML Tools I actively use (icons not available on skillicons.dev yet):
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=ly-sona&theme=rose_pine&ring=D9BED1&fire=D9BED1&currStreakLabel=D9BED1&background=00000000" height="165" />
-</div>
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/anushrutha-boyapati/" style="text-decoration: none;">
-    <img
-      src="https://github.com/user-attachments/assets/880aaea6-79b9-4058-b9b4-342391ca04ea"
-      alt="LinkedIn"
-      width="40"
-      height="40"
-      style="display:inline-block; vertical-align:middle;"
-    />
-  </a>
-
-  &nbsp;&nbsp;&nbsp;
-
-  <a href="https://www.anuboyapati.com/" style="text-decoration: none;">
-    <img
-      src="https://github.com/user-attachments/assets/172bc424-569a-4522-a787-97f4cd5a685d"
-      alt="Portfolio"
-      width="40"
-      height="40"
-      style="display:inline-block; vertical-align:middle;"
-    />
-  </a>
 </div>
 
 ---
