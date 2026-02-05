@@ -18,6 +18,9 @@ Other AI/ML Tools I actively use (icons not available on skillicons.dev yet):
 
 <div align="center">
 
+![GitHub Stats](./profile/stats.svg)
+![Top Langs](./profile/top-langs.svg)
+
 <!-- GitHub Streak -->
 <img src="https://streak-stats.demolab.com?user=ly-sona&theme=rose_pine&ring=D9BED1&fire=D9BED1&currStreakLabel=D9BED1&background=00000000" height="165"/>
 
