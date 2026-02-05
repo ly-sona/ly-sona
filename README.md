@@ -18,12 +18,6 @@ Other AI/ML Tools I actively use (icons not available on skillicons.dev yet):
 
 <div align="center">
 
-<!-- GitHub Stats -->
-<img src="https://github-readme-stats.vercel.app/api?username=ly-sona&show_icons=true&theme=rose_pine&title_color=D9BED1&icon_color=D9BED1&text_color=ffffff&bg_color=00000000" height="165"/>
-
-<!-- Most Used Languages -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ly-sona&layout=compact&theme=rose_pine&title_color=D9BED1&text_color=ffffff&bg_color=00000000" height="165"/>
-
 <!-- GitHub Streak -->
 <img src="https://streak-stats.demolab.com?user=ly-sona&theme=rose_pine&ring=D9BED1&fire=D9BED1&currStreakLabel=D9BED1&background=00000000" height="165"/>
 
