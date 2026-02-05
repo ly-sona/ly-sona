@@ -18,11 +18,6 @@ Other AI/ML Tools I actively use (icons not available on skillicons.dev yet):
 
 <div align="center">
   <img src="./profile/stats.svg" height="165" />
-</div>
-
-<br/>
-
-<div align="center">
   <img src="./profile/top-langs.svg" height="165" />
 </div>
 
