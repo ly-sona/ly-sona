@@ -5,7 +5,7 @@
 </a>
 
 
-[![My Skills](https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,raspberrypi,fastapi,flask,postgres,mongodb,docker,kubernetes,aws,git,github,javascript,react)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=pytorch,tensorflow,raspberrypi,fastapi,flask,postgres,mongodb,kubernetes,aws,git,github,react)](https://skillicons.dev)
 
 <!--
 Other AI/ML Tools I actively use (icons not available on skillicons.dev yet):
